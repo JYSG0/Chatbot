@@ -7,7 +7,7 @@ OpenAI_Key = st.secrets["OpenAI_Key"]
 
 st.set_page_config(
     page_title="Grape Chat Bot",
-    page_icon="https://www.flaticon.com/free-icon/grapes_5246707?term=grape&page=1&position=15&origin=search&related_id=5246707,
+    page_icon="https://www.flaticon.com/free-icon/grapes_5246707?term=grape&page=1&position=15&origin=search&related_id=5246707",
     layout="wide",
     initial_sidebar_state="expanded",
 )
