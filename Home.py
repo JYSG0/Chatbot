@@ -19,7 +19,7 @@ hide_default_format = """
        """
 st.markdown(hide_default_format, unsafe_allow_html=True)
 
-st.image("images/eduquest-logo2.png", width= 400)
+st.image("download.png", width= 400)
 
 st.markdown("""
 
